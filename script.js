@@ -23,3 +23,7 @@ console.log(100 * "100")
 
 console.log('g' + '_' + 'nash')
 
+var z="6969"
+
+console.log(typeof typeof z)
+console.log(typeof z)
